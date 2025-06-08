@@ -224,10 +224,10 @@ export default function CheatSlipsApp() {
               <Gamepad2 className="h-8 w-8 text-white" />
             </div>
             <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              CheatSlips API
+              CheatHub
             </h1>
           </div>
-          <p className="text-lg text-muted-foreground">轻松获取和管理您的游戏作弊码</p>
+          <p className="text-lg text-muted-foreground">现代化的游戏作弊码管理平台</p>
         </div>
 
         {/* Authentication Section */}
@@ -496,8 +496,8 @@ export default function CheatSlipsApp() {
 
         {/* Footer */}
         <footer className="mt-12 pt-8 border-t border-gray-200 dark:border-gray-700 text-center text-sm text-muted-foreground">
-          <p className="mb-2">这是一个纯前端应用。您的凭据和API Token仅在浏览器中处理。</p>
-          <p>© 2024 CheatSlips API 应用演示。请负责任地使用作弊码。</p>
+          <p className="mb-2">CheatHub - 基于 CheatSlips API 的现代化前端应用</p>
+          <p>© 2024 CheatHub。请负责任地使用作弊码。</p>
         </footer>
       </div>
     </div>
